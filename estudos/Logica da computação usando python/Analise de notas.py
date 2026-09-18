@@ -11,3 +11,5 @@ elif media >= 5:
 
 else:
     print("Reprovado!")
+
+print(f"sua média é: {media}")
